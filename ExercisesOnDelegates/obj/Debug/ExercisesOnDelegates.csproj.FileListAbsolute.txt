@@ -1,0 +1,6 @@
+D:\Repositories\HomeWorks\ExercisesOnDelegates\ExercisesOnDelegates\bin\Debug\ExercisesOnDelegates.exe.config
+D:\Repositories\HomeWorks\ExercisesOnDelegates\ExercisesOnDelegates\obj\Debug\ExercisesOnDelegates.csprojResolveAssemblyReference.cache
+D:\Repositories\HomeWorks\ExercisesOnDelegates\ExercisesOnDelegates\bin\Debug\ExercisesOnDelegates.exe
+D:\Repositories\HomeWorks\ExercisesOnDelegates\ExercisesOnDelegates\bin\Debug\ExercisesOnDelegates.pdb
+D:\Repositories\HomeWorks\ExercisesOnDelegates\ExercisesOnDelegates\obj\Debug\ExercisesOnDelegates.exe
+D:\Repositories\HomeWorks\ExercisesOnDelegates\ExercisesOnDelegates\obj\Debug\ExercisesOnDelegates.pdb
